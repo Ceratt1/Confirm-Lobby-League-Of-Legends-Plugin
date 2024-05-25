@@ -7,26 +7,26 @@
     </ul>
     <p>O programa será futuramente expandido com a implementação da biblioteca Tkinter para uma interface gráfica.</p>
     
-    <h2>Requisitos</h2>
-    <ul>
-        <li>Python 3.x</li>
-        <li>OpenCV</li>
-        <li>NumPy</li>
-        <li>PyScreenshot</li>
-    </ul>
+   <h2>Requisitos</h2>
+   <ul>
+       <li>Python 3.x</li>
+       <li>OpenCV</li>
+       <li>NumPy</li>
+       <li>PyScreenshot</li>
+   </ul>
 
-    <h2>Como Usar</h2>
-    <ol>
-        <li>Clone o repositório para o seu sistema.</li>
-        <li>Instale as dependências necessárias utilizando pip:</li>
-        <pre><code>pip install opencv-python numpy pyscreenshot</code></pre>
-        <li>Execute o programa utilizando o Python:</li>
-        <pre><code>python auto_confirm_lol.py</code></pre>
-        <li>Siga as instruções na interface para configurar e iniciar o processo de auto confirmação de partidas.</li>
-    </ol>
+   <h2>Como Usar</h2>
+   <ol>
+       <li>Clone o repositório para o seu sistema.</li>
+       <li>Instale as dependências necessárias utilizando pip:</li>
+       <pre><code>pip install opencv-python numpy pyscreenshot</code></pre>
+       <li>Execute o programa utilizando o Python:</li>
+       <pre><code>python auto_confirm_lol.py</code></pre>
+       <li>Siga as instruções na interface para configurar e iniciar o processo de auto confirmação de partidas.</li>
+   </ol>
 
-    <h2>Contribuições</h2>
-    <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
+   <h2>Contribuições</h2>
+   <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+   <h2>License</h2>
+   <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
