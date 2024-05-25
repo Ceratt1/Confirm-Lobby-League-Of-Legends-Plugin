@@ -21,7 +21,7 @@
        <li>Instale as dependências necessárias utilizando pip:</li>
        <pre><code>pip install opencv-python numpy pyscreenshot</code></pre>
        <li>Execute o programa utilizando o Python:</li>
-       <pre><code>python auto_confirm_lol.py</code></pre>
+       <pre><code>python __main__.py</code></pre>
        <li>Siga as instruções na interface para configurar e iniciar o processo de auto confirmação de partidas.</li>
    </ol>
 
