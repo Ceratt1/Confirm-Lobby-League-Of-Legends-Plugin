@@ -2,6 +2,7 @@ import pyautogui as PA
 import cv2
 import numpy as np
 import pyscreenshot as ImageGrab
+import os
 
 class CapAndReference:
     def __init__(self):
@@ -9,6 +10,10 @@ class CapAndReference:
         self.img = None
         self.ScreenResult = None
         self.location = None
+
+    def AlertInit(self):
+        os.system('msg * Lembre-se de ter seu league of legends aberto!')
+
 
     def capture_screen(self):
         screen = ImageGrab.grab()
@@ -33,9 +38,3 @@ class CapAndReference:
             PA.click(self.location)
         else:
             print('Tente ler a documentacao para ler seu possivel erro, caso precise de ajude mande mensagem\ngabrielceratticabral@gmail.com')
-
-# test = CapAndReference()
-
-# test.capture_screen()
-# test.find_image_on_screen()
-# test.click()
